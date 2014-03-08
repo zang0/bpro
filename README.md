@@ -3,6 +3,8 @@ bpro
 
 Behavioral Profiling Example Code Used in IBM Thoughtworks Article
 
+by Deep Dhillon - http://linkedin.com/in/ddhillon | http://twitter.com/zang0
+
 1. To run:
 
 python bpro.py -h
